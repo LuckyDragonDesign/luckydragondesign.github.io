@@ -1,7 +1,16 @@
 body {
   background-color: black;
+  font-family: sans-serif;
 }
 
 p {
   color: white;
+}
+
+li {
+  display: inline;
+}
+
+a {
+ text-decoration: none; 
 }
